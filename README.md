@@ -3,8 +3,8 @@
 #### 分4个步骤来完成：
 ##### （1）根据自动化框架appium和mitmdump插件结合截取请求接口，进行数据保存。通过自动化框架模拟人点击滑动手机的操作（搜索关键字红酒，点击用户，遍历红酒用户下的粉丝信息，进行大批量抓取uid），mitdump来自动保存数据，保存数据字段如uid。
 ##### （2）爬取卡思数据热门视频，获取视频分享链接和用户界面分享链接。
-##### 视频分享链接[显示文字](https://www.iesdouyin.com/share/video/6824055197489335565/?region=CN&mid=0&u_code=0&titleType=title)
-##### 用户分享界面链接[显示文字](https://www.douyin.com/share/user/690146621009436)
+#####  [视频分享链接](https://www.iesdouyin.com/share/video/6824055197489335565/?region=CN&mid=0&u_code=0&titleType=title)
+#####  [用户分享界面链接](https://www.douyin.com/share/user/690146621009436)
 ##### （3）修改视频分享链接中的参数uid，进行批量爬取
 ##### （4）修改用户分享界面链接中的参数uid，进行批量爬取
 ###  2数据分析——Analyse
